@@ -6,8 +6,8 @@ import MostViewed from './pages/MostViewed';
 export default function AppRoutes(){
     return(
         <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/most-viewed" element={<MostViewed />}/>
+            <Route path="staart-redeSocial/" element={<Home />} />
+            <Route path="staart-redeSocial/most-viewed" element={<MostViewed />}/>
         </Routes>
     );
 };
