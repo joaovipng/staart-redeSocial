@@ -4,14 +4,14 @@ export default function MostViewed() {
     const posts = [
         {
             id: Math.random(),
-            content: 'history',
-            userName: 'dawd',
+            content: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis doloribus quisquam, labore pariatur minima in aperiam, ipsa beatae non sequi vitae illo unde itaque sed accusamus libero, distinctio ad. Sequi at, maiores ad eveniet numquam accusantium magni fugit sint repudiandae iusto ipsa dignissimos veritatis eos in fugiat modi eligendi quibusdam.',
+            userName: 'Matheus',
             publishedAdd: new Date(),
         },
         {
             id: Math.random(),
-            content: 'history',
-            userName: 'dawd',
+            content: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Numquam necessitatibus illo quam laudantium excepturi minima repellendus deserunt sed pariatur rerum? Animi perspiciatis aliquam earum laboriosam.',
+            userName: 'Giovani',
             publishedAdd: new Date(),
         },
     ];
