@@ -9,8 +9,8 @@ export default function App() {
         <div className="wrapper">
             <BrowserRouter>
             <nav>
-                <Link to='/'>Meu Feed</Link>
-                <Link to='/most-viewed'>Mais vistos</Link>
+                <Link to='staart-redeSocial/'>Meu Feed</Link>
+                <Link to='staart-redeSocial/most-viewed'>Mais vistos</Link>
             </nav>
                 <AppRoutes />
             </BrowserRouter>
